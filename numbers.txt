@@ -1,0 +1,102 @@
+# Translations from https://tanzil.net/trans/
+# Verses from: https://www.quora.com/What-are-some-of-the-worst-statements-in-Quran
+
+# Fight non-muslims
+2|191
+
+# Fight non-muslims
+2|193
+
+# Fight non-muslims
+2|216
+
+# Distrust non-muslims
+3|28
+
+# Distrust non-muslims
+3|85
+
+# Distrust non-muslims
+3|118
+
+# Imprison women for life for pre-marital sex
+4|15
+
+# Punish men for gay sex
+4|16
+
+# Your first-cousins are not excluded from marriage
+# You can marry slave-girls even if they are already married
+4|2[234]
+
+# Beat women if they disobey you
+4|34
+
+# Commit suicide attacks against non-muslims
+4|7[456]
+
+# Fight non-muslims
+4|84
+
+# Distrust non-muslims
+4|89
+
+# Fight non-muslims
+4|104
+
+# Kill non-muslims
+5|33
+
+# Distrust non-muslims
+5|51
+
+# Distrust non-muslims
+5|57
+
+# Distrust non-muslims
+5|80
+
+# Behead non-muslims
+8|1[234]
+
+# Fight non-muslims
+8|39
+
+# Angels torture non-muslims immedetely after death
+8|50
+
+# Fight non-muslims
+8|60
+
+# Fight non-muslims
+8|65
+
+# Distrust non-muslims
+9|23
+
+# Fight non-muslims
+9|29
+
+# God will torture non-muslims immediately after death
+9|3[89]
+
+# Kill and enslave non-muslims
+9|5
+
+# Fight non-muslims
+9|123
+
+# Khidr explains to Moses why he killed a young boy
+18|8[01]
+
+# Pre-marital sex requires public punishment of 100 lashings 
+24|2
+
+# Mohammed tells boring people not to stay too long at his house for dinner
+33|53
+
+# Behead non-muslims
+47|4
+
+# Fight non-muslims
+66|9
